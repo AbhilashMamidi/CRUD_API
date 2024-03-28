@@ -1,0 +1,13 @@
+    steps to add dependencies:
+    npm init 
+    npm install express
+    npm install monogoDB
+    npm install mongoose
+    npm install nodemon --save-dev
+
+  methods:
+   GET: http://localhost:9000/aliens
+   GET: http://localhost:9000/aliens/<id>
+   POST: http://localhost:9000/aliens
+   PATCH: http://localhost:9000/aliens/<id>
+   DELETE: http://localhost:9000/aliens/<id>
